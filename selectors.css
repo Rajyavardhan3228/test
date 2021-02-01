@@ -1,0 +1,52 @@
+body{
+    background-color: #bdc3c7;
+}
+h1{
+    color:#9b59b6;
+}
+h2{
+    color: orange}
+li{
+    color: blue;
+}
+p{
+    background-color: yellow;
+}
+.inp1, .inp2{
+    border: 3px solid red;
+}
+.hello{
+    background-color: white;
+}
+#special{
+    border: 2px solid blue;
+}
+.content{
+    font-size: 25px;
+}
+.inp1{
+    background-color: grey;
+}
+.amount1, .amount2{
+    background-color: pink;
+}
+.amount2{
+    border: 5px solid white;
+}
+em{
+    font-size: 20px;
+    color: white;
+}
+.box1, .box2{
+    margin-left: 50px;
+}
+label{
+  text-transform: uppercase;
+}
+#special::first-letter{
+    color: green;
+   font-size:100px;
+}
+h1:hover{
+    color: blue;
+}
